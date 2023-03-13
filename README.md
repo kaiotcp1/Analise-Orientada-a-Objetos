@@ -40,9 +40,50 @@ Orientação a Objetos (OO) é um paradigma de programação que se baseia na
 criação de objetos que possuem propriedades e comportamentos específicos.
 Os objetos são instâncias de classes, que definem o tipo de objeto, suas
 propriedades e métodos (ou comportamentos). <br>
+As linguagens de programação que adotam esse paradigma incluem Java, C++, Python, Ruby, JavaScript e muitas outras. <br>
+  
+  <h2> Principais características </h2>
 
-As linguagens de programação que adotam esse paradigma incluem Java, C++, Python, Ruby, JavaScript e muitas outras.
+  <details>
+<summary> Classe </summary><br><b>
+  Define o comportamento de seus objetos atráves de métodos e seus possíveis estados atráves de atributos.
+ </b></details>
+  
+  <details>
+<summary> Encapsulamento </summary><br><b>
+  permite que os dados e comportamentos de um objeto sejam protegidos e escondidos
+  de outros objetos, de forma que eles só possam ser acessados através de métodos específicos.
+ </b></details>
+  
+  <details>
+<summary> Abstração </summary><br><b>
+  possibilita a criação de classes e objetos que representam conceitos do mundo real de forma simplificada,
+    permitindo que o programador se concentre nas propriedades e comportamentos mais importantes.
+ </b></details>
+  
+   <details>
+<summary> Polimorfismo </summary><br><b>
+  possibilita que objetos de classes diferentes possam ser tratados de forma semelhante, 
+     permitindo a criação de métodos genéricos e flexíveis.
+ </b></details>
+  
+  <details>
+<summary> Herança </summary><br><b>
+  permite a criação de classes que herdam propriedades e comportamentos de outras classes, 
+     facilitando a reutilização de código e a organização do sistema.
+ </b></details>
+  
+  <details>
+<summary> Modularidade </summary><br><b>
+  permite a separação do sistema em módulos independentes e reutilizáveis, 
+    facilitando a manutenção e evolução do sistema.
+ </b></details>
 
+  Essas características permitem a criação de sistemas complexos e de alta qualidade, 
+  com código organizado, reutilizável, fácil de manter e de evoluir. Além disso, a Orientação a Objetos
+  possibilita a criação de código mais compreensível e fácil de ser entendido pelos programadores e usuários finais.
+  
+  
 #### <h2> Qual a relação entre eles ? </h2>
 A relação entre OO, OOA e UML está na utilização da OO como paradigma de programação,
 na OOA para a identificação e descrição dos objetos que compõem um sistema e na UML
@@ -51,7 +92,4 @@ diversos diagramas, incluindo diagramas de classes, que são uma representação
 dos objetos e classes que fazem parte de um sistema, e diagramas de sequência, que 
 modelam o comportamento dos objetos e como eles interagem entre si.
 
-<details>
-<summary> teste </summary><br><b>
-blablablabla
-</b></details>
+  
