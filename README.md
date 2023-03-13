@@ -33,7 +33,46 @@ fornece um conjunto de diagramas para descrever diferentes aspectos de um sistem
 A UML é frequentemente usada para representar sistemas orientados a objetos e suporta
 a análise e o design orientados a objetos.
 
-Portanto, a UML é uma ferramenta comumente usada para modelar sistemas orientados a objetos durante a fase de análise orientada a objetos. A UML oferece diversos diagramas para representar as diferentes perspectivas do sistema, como diagrama de classes, diagrama de sequência, diagrama de atividades e diagrama de estados, entre outros. Esses diagramas são usados para capturar os requisitos do sistema e descrever a estrutura e o comportamento do sistema em um nível alto de abstração.
+Portanto, a UML é uma ferramenta comumente usada para modelar sistemas orientados a 
+  objetos durante a fase de análise orientada a objetos. A UML oferece diversos diagramas
+  para representar as diferentes perspectivas do sistema, como diagrama de classes, 
+  diagrama de sequência, diagrama de atividades e diagrama de estados, entre outros. 
+  Esses diagramas são usados para capturar os requisitos do sistema e descrever a estrutura
+  e o comportamento do sistema em um nível alto de abstração. <br><br>
+  
+  Os diagramas UML podem ser divididos em duas categorias principais: estruturais e comportamentais. 
+  Os diagramas estruturais são utilizados para representar a estrutura estática de um sistema,
+  enquanto os diagramas comportamentais são utilizados para representar a 
+  dinâmica ou comportamento do sistema.
+
+  <h3> Diagramas UML Estruturais: </h3>
+
+Diagrama de classes: representa as classes que fazem parte do sistema, bem como suas propriedades e métodos. É o diagrama mais utilizado na modelagem de sistemas orientados a objetos.<br>
+  #
+Diagrama de objetos: representa as instâncias das classes e suas relações em um determinado momento do tempo. <br>
+  #
+Diagrama de componentes: representa os componentes que compõem um sistema e as interfaces que eles disponibilizam para se comunicar com outros componentes. <br>
+  #
+Diagrama de implantação: representa a infraestrutura de hardware e software necessária para implantar o sistema. <br>
+  #
+<h3> Diagramas UML Comportamentais:: </h3> 
+
+Diagrama de casos de uso: representa os atores que interagem com o sistema e os casos de uso que descrevem as funcionalidades do sistema a partir do ponto de vista do usuário. <br>
+  #
+Diagrama de atividades: representa as atividades que fazem parte de um processo ou fluxo de trabalho, bem como as suas sequências e condições. <br>
+  #
+  
+Diagrama de sequência: representa a interação entre objetos ao longo do tempo, mostrando as mensagens trocadas entre eles e a ordem em que elas são enviadas e recebidas. <br>
+  #
+  
+Diagrama de comunicação: representa a mesma informação do diagrama de sequência, mas em um formato mais simples e menos detalhado. <br>
+  #
+  
+Diagrama de estados: representa os estados e transições de um objeto ou de um sistema em um determinado momento do tempo. <br>
+  #
+  
+Esses são os principais diagramas UML utilizados na modelagem de sistemas orientados a objetos. Cada um deles possui características próprias e é utilizado em diferentes fases do processo de desenvolvimento do sistema, permitindo uma representação completa e detalhada do sistema. <br>
+  #
 
 #### <h2> Paradigma Orientação a objeto </h2>
 Orientação a Objetos (OO) é um paradigma de programação que se baseia na
